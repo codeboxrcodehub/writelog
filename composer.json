@@ -1,0 +1,22 @@
+{
+    "name": "dipudey/writelog",
+    "description": "simplified logging for laravel",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dipudey\\Writelog\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Dipu Chandra Dey",
+            "email": "dipudey764@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
