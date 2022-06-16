@@ -9,7 +9,7 @@ if (!function_exists('writelog')) {
      */
     function writelog($log)
     {
-        $logObj = new \Dipudey\Writelog\WriteLog();
+        $logObj = new \Codeboxr\Writelog\WriteLog();
         $logObj->log($log);
     }
 }

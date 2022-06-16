@@ -1,6 +1,7 @@
 {
-    "name": "dipudey/writelog",
+    "name": "codeboxr/writelog",
     "description": "simplified logging for laravel",
+    "keywords": ["package", "log","laravel log","write log","api log"],
     "type": "project",
     "license": "MIT",
     "autoload": {
@@ -13,8 +14,8 @@
     },
     "authors": [
         {
-            "name": "Dipu Chandra Dey",
-            "email": "dipudey764@gmail.com"
+            "name": "Codeboxr",
+            "email": "sabuj@codeboxr.com"
         }
     ],
     "minimum-stability": "dev",

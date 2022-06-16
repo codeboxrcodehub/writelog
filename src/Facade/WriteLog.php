@@ -1,6 +1,6 @@
 <?php
 
-namespace Dipudey\Writelog\Facade;
+namespace Codeboxr\Writelog\Facade;
 
 use Illuminate\Support\Facades\Facade;
 

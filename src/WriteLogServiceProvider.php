@@ -1,6 +1,6 @@
 <?php
 
-namespace Dipudey\Writelog;
+namespace Codeboxr\Writelog;
 
 use Illuminate\Support\ServiceProvider;
 

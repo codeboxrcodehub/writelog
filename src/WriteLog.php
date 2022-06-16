@@ -1,8 +1,8 @@
 <?php
 
-namespace Dipudey\Writelog;
+namespace Codeboxr\Writelog;
 
-use Dipudey\Writelog\Exception\FilePathNotFoundException;
+use Codeboxr\Writelog\Exception\FilePathNotFoundException;
 
 class WriteLog
 {
