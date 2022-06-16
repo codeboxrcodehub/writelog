@@ -1,7 +1,6 @@
 {
     "name": "codeboxr/writelog",
     "description": "simplified logging for laravel",
-    "keywords": ["package", "log","laravel log","write log","api log"],
     "type": "project",
     "license": "MIT",
     "autoload": {
@@ -19,5 +18,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Codeboxr\\Writelog\\WriteLogServiceProvider"
+            ]
+        }
+    }
 }
