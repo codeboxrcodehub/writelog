@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Dipudey\\Writelog\\": "src/"
+            "Codeboxr\\Writelog\\": "src/"
         },
         "files": [
             "src/helpers.php"
