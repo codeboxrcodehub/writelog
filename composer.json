@@ -1,7 +1,7 @@
 {
     "name": "codeboxr/writelog",
     "description": "simplified logging for laravel",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
