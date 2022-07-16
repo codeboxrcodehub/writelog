@@ -34,6 +34,15 @@ If you want to to edit your file path or file name you should publish config fil
 
 after publishing the config you can see it in config/writelog.php then you can customize everything in your ways
 
+```
+return [
+    
+    "directory" => base_path(), // Log Store Directory Url
+    
+    "file_name" => "debug.log" // Log file name
+];
+```
+
 ## Contributing
 
 Contributions to the Writelog package are welcome. Please note the following guidelines before submitting your pull request.
