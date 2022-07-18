@@ -37,7 +37,7 @@ after publishing the config you can see it in config/writelog.php then you can c
 ```
 return [
     
-    "directory" => base_path(), // Log Store Directory Url
+    "directory" => base_path(), // Log Store Directory path
     
     "file_name" => "debug.log" // Log file name
 ];
